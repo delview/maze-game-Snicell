@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object4",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_lock",
+  "eventList":[],
   "managed":true,
-  "name":"Object4",
+  "name":"obj_lock",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
