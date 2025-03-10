@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"key",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_metaldoor",
+  "eventList":[],
   "managed":true,
-  "name":"key",
+  "name":"obj_metaldoor",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite9",
+    "path":"sprites/Sprite9/Sprite9.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
