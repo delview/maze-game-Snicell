@@ -11,3 +11,11 @@ direction = 0;
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "x"
 x += move_speed;
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 7EB51432
+/// @DnDArgument : "spriteind" "spr_rightboi"
+/// @DnDSaveInfo : "spriteind" "spr_rightboi"
+sprite_index = spr_rightboi;
+image_index = 0;
