@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object8",
+  "%Name":"obj_bluebutton",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object8",
+  "name":"obj_bluebutton",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite11",
-    "path":"sprites/Sprite11/Sprite11.yy",
+    "name":"spr_bluebutton",
+    "path":"sprites/spr_bluebutton/spr_bluebutton.yy",
   },
   "spriteMaskId":null,
   "visible":true,

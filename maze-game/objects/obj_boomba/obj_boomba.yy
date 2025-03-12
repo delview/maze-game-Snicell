@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite14",
-    "path":"sprites/Sprite14/Sprite14.yy",
+    "name":"spr_landmine",
+    "path":"sprites/spr_landmine/spr_landmine.yy",
   },
   "spriteMaskId":null,
   "visible":true,

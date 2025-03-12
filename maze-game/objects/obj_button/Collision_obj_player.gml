@@ -3,7 +3,7 @@
 /// @DnDHash : 11A2992A
 /// @DnDArgument : "spriteind" "Sprite10"
 /// @DnDSaveInfo : "spriteind" "Sprite10"
-sprite_index = Sprite10;
+sprite_index = spr_redbuttonpressed;
 image_index = 0;
 
 /// @DnDAction : YoYo Games.Particles.Effect
