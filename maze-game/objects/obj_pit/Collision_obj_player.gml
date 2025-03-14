@@ -10,9 +10,3 @@
 /// @DnDArgument : "size" "1"
 /// @DnDArgument : "color" "$FF343434"
 effect_create_above(5, x + 32, y + 35, 1, $FF343434 & $ffffff);
-
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 62B73CB3
-/// @DnDApplyTo : {obj_player}
-with(obj_player) instance_destroy();

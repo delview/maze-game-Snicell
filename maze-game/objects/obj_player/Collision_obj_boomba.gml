@@ -1,6 +1,10 @@
-/// @DnDAction : YoYo Games.Instances.Change_Instance
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 0353F966
-/// @DnDArgument : "objind" "obj_retry"
-/// @DnDSaveInfo : "objind" "obj_retry"
-instance_change(obj_retry, true);
+/// @DnDHash : 08C8D823
+instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 0B8436AE
+/// @DnDApplyTo : {obj_boomba}
+with(obj_boomba) instance_destroy();

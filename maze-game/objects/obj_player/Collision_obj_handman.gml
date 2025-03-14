@@ -17,9 +17,7 @@ audio_play_sound(hitHurt3, 0, 0, 1.0, undefined, 1.0);
 /// @DnDArgument : "color" "$FF19197F"
 effect_create_above(0, x + 32, y + 35, 2, $FF19197F & $ffffff);
 
-/// @DnDAction : YoYo Games.Instances.Change_Instance
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 2029C396
-/// @DnDArgument : "objind" "obj_retry"
-/// @DnDSaveInfo : "objind" "obj_retry"
-instance_change(obj_retry, true);
+/// @DnDHash : 73D8890E
+instance_destroy();

@@ -15,3 +15,8 @@ audio_play_sound(hitHurt3, 0, 0, 1.0, undefined, 1.0);
 /// @DnDArgument : "size" "2"
 /// @DnDArgument : "color" "$FF000099"
 effect_create_below(0, x + 32, y + 35, 2, $FF000099 & $ffffff);
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 44AA98F1
+instance_destroy();

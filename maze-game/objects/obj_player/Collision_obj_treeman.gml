@@ -19,5 +19,5 @@ effect_create_above(0, x + 32, y + 35, 1, $FF1E1E99 & $ffffff);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 1EB71E64
+/// @DnDHash : 593F442D
 instance_destroy();
