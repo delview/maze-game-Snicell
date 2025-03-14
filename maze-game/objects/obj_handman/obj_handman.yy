@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_gary",
-    "path":"sprites/spr_gary/spr_gary.yy",
+    "name":"spr_scaryhand",
+    "path":"sprites/spr_scaryhand/spr_scaryhand.yy",
   },
   "spriteMaskId":null,
   "visible":true,

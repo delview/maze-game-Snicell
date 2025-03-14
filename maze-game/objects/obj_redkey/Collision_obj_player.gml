@@ -14,3 +14,10 @@ instance_destroy();
 /// @DnDArgument : "where" "1"
 /// @DnDArgument : "size" "1"
 effect_create_above(7, x + 33, y + 32, 1, $FFFFFF & $ffffff);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 166B8B33
+/// @DnDArgument : "soundid" "pickupCoin"
+/// @DnDSaveInfo : "soundid" "pickupCoin"
+audio_play_sound(pickupCoin, 0, 0, 1.0, undefined, 1.0);

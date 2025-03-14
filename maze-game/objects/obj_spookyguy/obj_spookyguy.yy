@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite7",
-    "path":"sprites/Sprite7/Sprite7.yy",
+    "name":"spr_spookyguy",
+    "path":"sprites/spr_spookyguy/spr_spookyguy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

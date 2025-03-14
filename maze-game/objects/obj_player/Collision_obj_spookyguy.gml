@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 231265AC
+/// @DnDArgument : "soundid" "hitHurt3"
+/// @DnDSaveInfo : "soundid" "hitHurt3"
+audio_play_sound(hitHurt3, 0, 0, 1.0, undefined, 1.0);
+
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
 /// @DnDHash : 46E93519

@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 09D507B8
+/// @DnDArgument : "soundid" "hitHurt3"
+/// @DnDSaveInfo : "soundid" "hitHurt3"
+audio_play_sound(hitHurt3, 0, 0, 1.0, undefined, 1.0);
+
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
 /// @DnDHash : 559089E5
@@ -10,7 +17,9 @@
 /// @DnDArgument : "color" "$FF19197F"
 effect_create_above(0, x + 32, y + 35, 2, $FF19197F & $ffffff);
 
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 395EC086
-instance_destroy();
+/// @DnDHash : 2029C396
+/// @DnDArgument : "objind" "obj_retry"
+/// @DnDSaveInfo : "objind" "obj_retry"
+instance_change(obj_retry, true);

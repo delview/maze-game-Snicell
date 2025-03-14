@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 695EE201
-/// @DnDArgument : "spriteind" "Sprite13"
-/// @DnDSaveInfo : "spriteind" "Sprite13"
+/// @DnDHash : 2BA60925
+/// @DnDArgument : "spriteind" "spr_bluebuttonpress"
+/// @DnDSaveInfo : "spriteind" "spr_bluebuttonpress"
 sprite_index = spr_bluebuttonpress;
 image_index = 0;

@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite4",
-    "path":"sprites/Sprite4/Sprite4.yy",
+    "name":"spr_lock",
+    "path":"sprites/spr_lock/spr_lock.yy",
   },
   "spriteMaskId":null,
   "visible":true,
