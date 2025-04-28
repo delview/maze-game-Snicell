@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mazestartsong.wav",
   "type":0,
-  "volume":0.46,
+  "volume":1.0,
 }

@@ -11,11 +11,3 @@ direction = 90;
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "y"
 y += -move_speed;
-
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 3C618600
-/// @DnDArgument : "spriteind" "spr_bigbackboi"
-/// @DnDSaveInfo : "spriteind" "spr_bigbackboi"
-sprite_index = spr_bigbackboi;
-image_index = 0;
